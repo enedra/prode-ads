@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/marianocordoba/prode-ads.svg?branch=master)](https://travis-ci.org/marianocordoba/prode-ads)
 [![codecov](https://codecov.io/gh/marianocordoba/prode-ads/branch/master/graph/badge.svg)](https://codecov.io/gh/marianocordoba/prode-ads)
 
-Welcome to **eProde**, the most amazing e-games gambling platform on the world!
+Welcome to **eProde**, the most amazing e-games gambling platform in the world!
 
 *IMPORTANT: This project is for education purposes*
 
