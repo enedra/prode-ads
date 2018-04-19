@@ -1,5 +1,5 @@
-# eProde
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![eProde](https://i.imgur.com/j2JpZOc.png "eProde")
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/marianocordoba/prode-ads/blob/master/README.md)
 
 Welcome to **eProde**, the most amazing e-games gambling platform on the world!
 
