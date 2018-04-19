@@ -1,12 +1,3 @@
-# eProde
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Welcome to **eProde**, the most amazing e-games gambling platform on the world!
-
-*IMPORTANT: This project is for education purposes*
-
-# License
-
 MIT License
 
 Copyright (c) 2018 - Mariano Córdoba, Eduardo Pera, Tomás Guevara
