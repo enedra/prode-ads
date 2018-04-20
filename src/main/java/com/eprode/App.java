@@ -1,9 +1,9 @@
 package com.eprode;
 
 /**
- * @author Mariano Córdoba <marianocordoba039@gmail.com>
+ * Startup class
  */
-public class App 
+public class App
 {
 
     public static void main( String[] args )

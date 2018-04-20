@@ -8,6 +8,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.
@@ -29,6 +30,7 @@ public class AppTest
 
     @Test
     public void testHelloWorld() {
+        App app = new App();
         App.main(new String[0]);
         assertEquals("Hello World!\n", outContent.toString());
     }
