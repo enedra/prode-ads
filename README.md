@@ -1,6 +1,6 @@
 ![eProde](https://i.imgur.com/j2JpZOc.png "eProde")
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/marianocordoba/prode-ads/blob/master/README.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/marianocordoba/prode-ads/blob/master/README.md)
 [![Build Status](https://travis-ci.org/marianocordoba/prode-ads.svg?branch=master)](https://travis-ci.org/marianocordoba/prode-ads)
 [![codecov](https://codecov.io/gh/marianocordoba/prode-ads/branch/master/graph/badge.svg)](https://codecov.io/gh/marianocordoba/prode-ads)
 
