@@ -1,3 +1,4 @@
 target/
 .idea/
 prode-ads.iml
+infer-out/
