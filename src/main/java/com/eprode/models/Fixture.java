@@ -4,11 +4,11 @@ import org.javalite.activejdbc.Model;
 import org.javalite.activejdbc.annotations.Table;
 
 
-@Table("egames")
-public class EGame extends Model {
+@Table("fixture")
+public class Fixture extends Model {
 
     static {
-        validatePresenceOf("name", "cod_game");
+        validatePresenceOf("id_fixture", "id_user", "cod_game");
     }
 
 }
